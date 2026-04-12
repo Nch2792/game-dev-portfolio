@@ -72,7 +72,8 @@ a {
 }
 
 img {
-  display: block;
+  //display: block;
+  display: none;
   max-width: 100%;
 }
 
